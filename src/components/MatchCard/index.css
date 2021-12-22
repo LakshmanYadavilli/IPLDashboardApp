@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.matchCard {
+  background-color: #ffffff33;
+  padding: 20px;
+  margin: 20px;
+  width: 500px;
+  height: 420px;
+  text-align: center;
+  border-radius: 20px;
+}
+.matchCard > img {
+  width: 150px;
+  height: 150px;
+}
+.G {
+  color: #18ed66;
+}
+.R {
+  color: #e31a1a;
+}

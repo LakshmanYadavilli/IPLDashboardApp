@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.teamMatches {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+  overflow-y: auto;
+  padding: 20px;
+}
+.ulMC {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#SH {
+  background-color: #f26d22;
+}
+#CSK {
+  background-color: #f7db00;
+}
+#RCB {
+  background-color: #a4261d;
+}
+#KXP {
+  background-color: #d91c1f;
+}
+#DC {
+  background-color: #4f5db0;
+}
+#MI {
+  background-color: #13418b;
+}
+#KKR {
+  background-color: #5755a7;
+}
+#RR {
+  background-color: #da237b;
+}
+#loader {
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
